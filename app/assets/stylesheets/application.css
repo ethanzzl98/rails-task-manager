@@ -13,3 +13,20 @@
  *= require_tree .
  *= require_self
  */
+form {
+  border: 1px solid black;
+}
+
+.btn {
+  background-color: skyblue;
+  border-radius: 99px;
+  padding: 5px;
+}
+
+input {
+  display: block;
+}
+
+textarea {
+  display: block;
+}
